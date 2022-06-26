@@ -1,6 +1,6 @@
 # Data-Visualization-in-Python
 
-## Google Playstore Case Study
+## Google Play Store Case Study
 
 Learning data visualisation with the help of a case study and understand how visualisation aids you in solving business problems.
 
